@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "Casa Alda",
+      "address": "160 Las Vegas Blvd N, Las Vegas, NV 89101, USA",
+      "description": "Beautifully landscaped four story building and professionally decorated common areas.",
+      "img": "img_1.jpg",
+      "like": true
+    },
+    {
+      "id": 2,
+      "title": "Sag Harbor Cottage",
+      "address": "Unnamed Road, Burke, SD 57523, USA",
+      "description": "The very best waterfront location in Harbor Islands complete with private dock.",
+      "img": "img_2.jpg",
+      "like": false
+    },
+    {
+      "id": 3,
+      "title": "Cascade Blocks",
+      "address": "51 Merrick Way, Coral Gables, FL 33134, USA",
+      "description": "Enchanting three bedroom, three bath home with spacious one bedroom.",
+      "img": "img_3.jpg",
+      "like": false
+    },
+    {
+      "id": 4,
+      "title": "Morningside Residence",
+      "address": "Wano, KS, USA",
+      "description": "Enjoy serenity of Deering Bay whole day from this spectacular North and South.",
+      "img": "img_4.jpg",
+      "like": false
+    },
+    {
+      "id": 5,
+      "title": "Extension Newhaven",
+      "address": "101 W El Portal San Clemente CA 92672 USA",
+      "description": "The property offers contemporary and spacious accommodation and is set within 1.4 acres of stunning landscaped gardens. The front door opens onto large entrance hall with storage cupboards, a cloakroom and access through to the principle reception rooms all of which offer wood flooring and large windows with stunning views over the garden making the property light and bright.",
+      "img": "img_5.jpg",
+      "like": false
+    },
+    {
+      "id": 6,
+      "title": "Corner House",
+      "address": "N3630 Rd Paden Okfuskee County",
+      "description": "Elegant retreat in a quiet Coral Gables setting. This home provides wonderful.",
+      "img": "img_6.jpg",
+      "like": false
+    },
+    {
+      "id": 7,
+      "title": "Gravenhurst Cottage",
+      "address": "Unnamed Road, Las Vegas, NV 89103, USA",
+      "description": "Spacious and fabulous home in prime location. This executive style four bed.",
+      "img": "img_7.jpg",
+      "like": true
+    },
+    {
+      "id": 8,
+      "title": "Neue Dimensionen im Schrägdach",
+      "address": "Unnamed Road, San Francisco, CA 94102, USA",
+      "description": "To the left is the modern kitchen with central island, leading through to the unique breakfast/family room which feature glass walls and doors out onto the garden and access to the separate utility room.",
+      "img": "img_8.jpg",
+      "like": false
+    },
+    {
+      "id": 9,
+      "title": "Langs Beach House",
+      "address": "Co Rd X Tribune Tribune",
+      "description": "BFusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.",
+      "img": "img_9.jpg",
+      "like": false
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+// Bg colors
+$bg_light: #f7f7f7
+$bg_dark: #2b2b2b
+
+// Colors
+
+$blue:    #7bb6f1
+$indigo:  #7574d2
+$purple:  #a174d2
+$pink:    #dc5bb4
+$red:     #dc5d5b
+$orange:  #fc9e66
+$yellow:  #fccc5e
+$green:   #67b75d
+$teal:    #43b993
+$cyan:    #4faebd
+
+
+$black:   #2d2f33
+$dark:    #484b58
+$gray:    #6f6f7a
+$light:   #9a9aa7
+$white:   #ffffff
+
+
+$gray-100: #fdfeff
+$gray-200: #e9eff3
+$gray-300: #c8c8d0
+$gray-400: #9a9aa7
+$gray-500: #777784
+$gray-600: #6f6f7a
+$gray-700: #525665
+$gray-800: #484b58
+$gray-900: #383B40
+
+
+$primary:       $green
+$secondary:     $gray-500
+$success:       $green
+$info:          $cyan
+$warning:       $yellow
+$danger:        $red
+$light:         $gray-200
+$dark:          $gray-800
+
+
+
+// @use "sass:map"
+
+$colors: ("blue": $blue, "indigo": $indigo, "purple": $purple, "pink": $pink, "red": $red, "orange": $orange, "yellow": $yellow, "green": $green, "teal": $teal, "cyan": $cyan, )
+$grays: ("gray-100": $gray-100, "gray-200": $gray-200, "gray-300": $gray-300, "gray-400": $gray-400, "gray-500": $gray-500, "gray-600": $gray-600, "gray-700": $gray-700, "gray-800": $gray-800, "gray-900": $gray-900)
+
+$theme-colors: map-merge($colors, $grays)
+
+
+// Sizes
+$max-mq-size: 1600
+$base-font-size: 16
+
+
+// Mq Breackpoints
+
+$breakpoints: ('xs': 576px, 'sm': 768px, 'md': 992px, 'lg': 1200px)
+
+
+// Animate
+$use-all: true
+
+$btn-padding-x: 2rem
+$btn-transition: color .3s ease-in-out, background-color .3s ease-in-out, border-color .3s ease-in-out, box-shadow .3s ease-in-out
+$transition-fade: opacity .5s linear
